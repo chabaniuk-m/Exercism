@@ -15,6 +15,7 @@ namespace date_independent {
 
         bool operator==(const clock& other) const;
         bool operator!=(const clock& other) const;
+        operator std::string() const;
     };
 }  // namespace date_independent
 

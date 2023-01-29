@@ -39,4 +39,13 @@ namespace date_independent {
 
         return a.hour != b.hour || b.minutes != a.minutes;
     }
+
+    clock::operator std::string() const {
+        std::stringstream ss("");
+        if (this->hour < 10) ss << 0;
+        ss << this->hour << ":";
+        if (this->minutes < 10) ss << 0;
+        ss << this->minutes;
+        return ss.str();
+    }
 }  // namespace date_independent
