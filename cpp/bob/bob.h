@@ -1,8 +1,10 @@
 #if !defined(BOB_H)
 #define BOB_H
 
-namespace bob {
+#include <string>
 
+namespace bob {
+    std::string hey(const std::string& message);
 }  // namespace bob
 
 #endif // BOB_H
