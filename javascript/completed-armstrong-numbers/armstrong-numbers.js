@@ -7,9 +7,8 @@ export const isArmstrongNumber = (n) => {
   let r = n
   let sum = 0
   let i = Math.floor(Math.log10(n)) + 1
-  while (i > 0) {
+  while (r > 0) {
     sum += Math.pow(r % 10, i)
-    i -= 1
     r = Math.floor(r / 10)
     console.log(r)
   }
