@@ -6,3 +6,11 @@
 /cpp/**/cmake-build-debug/
 /cpp/**/out/
 /cpp/**/CMakeLists.txt
+/javascript/.idea/
+/javascript/**/.eslintrc
+/javascript/**/.npmrc
+/javascript/**/babel.config.js
+/javascript/**/package.json
+/javascript/**/config.json
+/javascript/**/metadata.json
+/javascript/**/LICENSE
