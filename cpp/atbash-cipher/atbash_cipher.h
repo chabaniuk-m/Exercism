@@ -4,7 +4,7 @@
 #include <string>
 
 namespace atbash_cipher {
-    std::string encode(const std::string& text);
+    std::string encode(const std::string& text, const bool add_space=true);
     std::string decode(const std::string& text);
 }  // namespace atbash_cipher
 
