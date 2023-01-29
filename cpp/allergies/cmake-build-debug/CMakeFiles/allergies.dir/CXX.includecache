@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Exercism/cpp/allergies/allergies.cpp
+allergies.h
+C:/Users/Admin/Exercism/cpp/allergies/allergies.h
+
+C:/Users/Admin/Exercism/cpp/allergies/allergies.h
+vector
+-
+unordered_set
+-
+string
+-
+

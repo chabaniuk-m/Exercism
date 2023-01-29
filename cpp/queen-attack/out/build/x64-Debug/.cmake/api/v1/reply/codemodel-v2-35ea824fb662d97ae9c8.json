@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "queen-attack",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "queen-attack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queen-attack-Debug-4ce1eabebb58419082cf.json",
+					"name" : "queen-attack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_queen-attack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_queen-attack-Debug-340ba0d932a43f154aa1.json",
+					"name" : "test_queen-attack",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Exercism/cpp/queen-attack/out/build/x64-Debug",
+		"source" : "C:/Users/Admin/Exercism/cpp/queen-attack"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

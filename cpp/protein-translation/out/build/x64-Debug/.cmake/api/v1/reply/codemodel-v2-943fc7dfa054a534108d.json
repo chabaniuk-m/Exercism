@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "protein-translation",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "protein-translation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protein-translation-Debug-084026d57deed08c5ef8.json",
+					"name" : "protein-translation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_protein-translation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_protein-translation-Debug-2a4d241f23fdd1f0abd5.json",
+					"name" : "test_protein-translation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Exercism/cpp/protein-translation/out/build/x64-Debug",
+		"source" : "C:/Users/Admin/Exercism/cpp/protein-translation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prime-factors",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prime-factors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prime-factors-Debug-c182092b527cc0f32a30.json",
+					"name" : "prime-factors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_prime-factors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_prime-factors-Debug-1cb37accc77c3b492fcb.json",
+					"name" : "test_prime-factors",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Exercism/cpp/prime-factors/out/build/x64-Debug",
+		"source" : "C:/Users/Admin/Exercism/cpp/prime-factors"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

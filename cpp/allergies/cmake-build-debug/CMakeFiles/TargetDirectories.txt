@@ -1,0 +1,4 @@
+C:/Users/Admin/Exercism/cpp/allergies/cmake-build-debug/CMakeFiles/allergies.dir
+C:/Users/Admin/Exercism/cpp/allergies/cmake-build-debug/CMakeFiles/test_allergies.dir
+C:/Users/Admin/Exercism/cpp/allergies/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Exercism/cpp/allergies/cmake-build-debug/CMakeFiles/rebuild_cache.dir

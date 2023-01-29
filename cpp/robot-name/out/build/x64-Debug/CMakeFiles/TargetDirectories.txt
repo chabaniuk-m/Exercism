@@ -1,0 +1,4 @@
+C:/Users/Admin/Exercism/cpp/robot-name/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Exercism/cpp/robot-name/out/build/x64-Debug/CMakeFiles/robot-name.dir
+C:/Users/Admin/Exercism/cpp/robot-name/out/build/x64-Debug/CMakeFiles/test_robot-name.dir
+C:/Users/Admin/Exercism/cpp/robot-name/out/build/x64-Debug/CMakeFiles/edit_cache.dir

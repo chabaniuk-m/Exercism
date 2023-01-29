@@ -1,0 +1,8 @@
+./idea/
+./venv/
+./cpp/.vs/
+./cpp/**/.exercism/
+./cpp/**/.idea/
+./cpp/**/cmake-build-debug/
+./cpp/**/out/
+./cpp/**/test/

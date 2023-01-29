@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rna-transcription",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rna-transcription::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rna-transcription-Debug-15bffa0a3cb2cb149a03.json",
+					"name" : "rna-transcription",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_rna-transcription::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_rna-transcription-Debug-4512ba894720dead35ed.json",
+					"name" : "test_rna-transcription",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Exercism/cpp/rna-transcription/out/build/x64-Debug",
+		"source" : "C:/Users/Admin/Exercism/cpp/rna-transcription"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

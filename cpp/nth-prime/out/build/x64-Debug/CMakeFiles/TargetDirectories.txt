@@ -1,0 +1,4 @@
+C:/Users/Admin/Exercism/cpp/nth-prime/out/build/x64-Debug/CMakeFiles/nth-prime.dir
+C:/Users/Admin/Exercism/cpp/nth-prime/out/build/x64-Debug/CMakeFiles/test_nth-prime.dir
+C:/Users/Admin/Exercism/cpp/nth-prime/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Exercism/cpp/nth-prime/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

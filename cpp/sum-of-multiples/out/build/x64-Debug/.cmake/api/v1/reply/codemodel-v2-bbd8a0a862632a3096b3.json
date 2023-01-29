@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sum-of-multiples",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sum-of-multiples::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum-of-multiples-Debug-7e7cfcc6a4e846653a92.json",
+					"name" : "sum-of-multiples",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_sum-of-multiples::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_sum-of-multiples-Debug-43cb78daa954c0c0c7f5.json",
+					"name" : "test_sum-of-multiples",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Exercism/cpp/sum-of-multiples/out/build/x64-Debug",
+		"source" : "C:/Users/Admin/Exercism/cpp/sum-of-multiples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

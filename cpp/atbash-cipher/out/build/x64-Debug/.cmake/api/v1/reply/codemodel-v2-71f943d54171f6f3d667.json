@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "atbash-cipher",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "atbash-cipher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-atbash-cipher-Debug-d09958e58ffde9af37ef.json",
+					"name" : "atbash-cipher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_atbash-cipher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_atbash-cipher-Debug-6a03b212c8128c88f6d9.json",
+					"name" : "test_atbash-cipher",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/Exercism/cpp/atbash-cipher/out/build/x64-Debug",
+		"source" : "C:/Users/Admin/Exercism/cpp/atbash-cipher"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
