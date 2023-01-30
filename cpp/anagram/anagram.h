@@ -9,7 +9,8 @@ namespace anagram {
     private:
         std::vector<char> word;
     public:
-        anagram(const std::string word)
+        explicit anagram(const std::string& word);
+        std::vector<std::string> matches(const std::vector<std::string>&& words) const;
     };
 }  // namespace anagram
 
