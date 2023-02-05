@@ -1,8 +1,18 @@
 /.idea/
 /venv/
 /cpp/.vs/
-/cpp/**/.exercism/
+/**/**/.exercism/
 /cpp/**/.idea/
+/**/**/.idea/
+/java/**/.gradle/
+/java/**/build/
+/java/**/build.gradle
+/java/**/.exercism
+/java/**/gradlew
+/java/**/gradle
+/java/**/gradlew.bat
+/java/**/src/test/
+/java/**/*.log
 /cpp/**/cmake-build-debug/
 /cpp/**/out/
 /cpp/**/CMakeLists.txt
@@ -14,3 +24,4 @@
 /javascript/**/config.json
 /javascript/**/metadata.json
 /javascript/**/LICENSE
+/**/**/HELP.md
