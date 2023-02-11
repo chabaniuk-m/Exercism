@@ -1,7 +1,7 @@
 class DnDCharacter {
 
     int ability() {
-        throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
+        return 0;
     }
 
     int modifier(int input) {
